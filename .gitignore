@@ -10,3 +10,8 @@ models/*.task
 # Streamlit & OS
 .streamlit/
 .DS_Store
+
+# Ignore the large binary models
+models/*.task
+# But don't ignore the folder itself
+!models/.gitkeep
