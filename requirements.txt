@@ -1,0 +1,7 @@
+# Bra Fit Finder MVP - Dependencies
+# Python 3.9+ recommended
+
+streamlit>=1.28.0
+mediapipe>=0.10.0
+Pillow>=10.0.0
+numpy>=1.24.0

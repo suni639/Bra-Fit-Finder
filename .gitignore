@@ -1,0 +1,12 @@
+# Environments
+venv/
+.env
+__pycache__/
+*.pyc
+
+# MediaPipe Models (Large binary files)
+models/*.task
+
+# Streamlit & OS
+.streamlit/
+.DS_Store
