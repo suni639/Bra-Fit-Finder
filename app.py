@@ -163,7 +163,7 @@ def main():
 
     # Footer
     st.divider()
-    st.caption("Bra Fit Finder MVP · For support, please contact your retailer.")
+    st.caption("Bra Fit Finder MVP · No photos are ever shared, and remain on your device.")
 
 
 if __name__ == "__main__":
