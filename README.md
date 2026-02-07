@@ -128,7 +128,3 @@ A new tab should automatically open in your web browser, displaying the Bra Fit 
 | `download_model.py` | **AI Utility:** Fetches the AI model components. |
 | `models/` | **Storage:** Directory storing the `pose_landmarker.task`. |
 | `requirements.txt` | **Dependencies:** List of required libraries. |
-
----
-
-*For support or to report a sizing discrepancy, please contact the product team.*
